@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="cook_like_a_chef">Cook Like a Chef</string>
+    <string name="search_here">Search here...</string>
+    <string name="text_button_get_started">Get Started</string>
+    <string name="greeting_text">Discover Best\nRecipes </string>
+    <string name="just_for_you">Just For You</string>
+    <string name="recipes">Recipes</string>
+    <string name="follow">Follow</string>
+    <string name="count">4.8</string>
+    <string name="on_boarding_screen_descripition">De Chef is a user-friendly recipe app designed for those who are new to cooking and want to try new recipes at home</string>
+    <string name="food_category">Food category</string>
+    <string name="ingredient">Ingredients</string>
+
+</resources>
